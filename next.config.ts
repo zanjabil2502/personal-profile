@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Enable standalone output untuk Docker optimization
-  output: 'standalone',
+  // Enable static export output for GitHub Pages deployment
+  output: 'export',
 
   // Compress images
   images: {
