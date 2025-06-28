@@ -1,0 +1,98 @@
+ZANJABILA
+0822-4509-5866 | zanjabilaabil@gmail.com | linkedin.com/in/zanjabila/ | github.com/zanjabil2502
+20 Kapten Ilyas Street, RT 01, RW 01, Singonegaran Subdistrict, Banyuwangi District, Banyuwangi Regency, East Java, Indonesia
+A seasoned AI Engineer with five years immersed in the world of Artificial Intelligence, I've honed my expertise in building both SaaS and
+On-Premise AI-driven systems, leveraging the power of Python, LlamaIndex, VLLm, Qdrant, etc. Beyond AI, I'm passionate about crafting
+dynamic web services, bringing three years of experience with Next.js, Tailwind CSS, and Socket.IO to the table.
+
+Work Experiences
+Ajari Technologies PTE. LTD - Jakarta, Indonesia
+
+Jan 2025 - Present
+
+Lead AI Engineer
+AJARI is a technology company specializing in the development of advanced machine learning models and the application of artificial
+intelligence to enhance system performance—driving greater efficiency, accuracy, and customization. At this stage, our innovations are
+focused on advancing neural network capabilities and optimizing data exploration within modern, two-way end-to-end communication
+systems.
+Led an AI team of 3 members.
+Designed over 5 AI System Architectures and Workflow Processes tailored to specific project or product requirements.
+Developed over 5 proof-of-concept (POC) AI services for internal product teams and external clients, such as the Azerbaijan Ministry,
+Uzbekistan Government, and companies in the UAE.
+Made key decisions and prepared development plans and scenarios for PoC systems, including projects such as AI Multimodal
+Sentiment and Anomaly Analytics, AI Personalized Learning Pathway, AI Learning Assistant (Text-to-Text System), and AI Learning
+Buddy (Speech-to-Speech System), among others.
+Responsible for 3 AI service products and more than 5 AI service projects.
+Assigned tasks and managed the backlog for the team.
+Ajari Technologies PTE. LTD - Jakarta, Indonesia
+
+Mar 2024 - Present
+
+AI Engineer Staff
+Built and developed 2 Real-Time Transcription and Translation Services, including a Minutes of Meeting Service, both as standalone
+products and as project solutions.
+Developed 2 Vision AI-based services: AI Face Verification and AI Focus Rate.
+Researched and experimented with 2 AI services: Coal Monitoring on Conveyors and PDF Document Translation.
+Built and developed Over 6 Real-Time Speech-to-Speech AI Assistants based on Agentic Systems, such as NISA, AI Learning
+Buddy, Go Virtual, and others.
+Developed more than 5 AI agents and RAG system, including Call Reservation Agent, Translator Agent, Minutes of Meeting Agent,
+Tax Agent, and more.
+Conducted research, benchmarking, and evaluation of systems, models, and LLM responses.
+Developed an environment for local AI models to serve as the central AI service hub.
+Discovered a new method for AI agentic workflows tailored to low-resource settings.
+PT. Bahasa Kita - Jakarta, Indonesia
+
+Dec 2022 - Feb 2024
+
+Production Staff
+PT. BahasaKita (PT. Bahasa Kinerja Utama) is a forward-thinking company dedicated to developing innovative products in the field of
+information and communication technology. Our expertise spans automatic speech recognition systems, machine translation, text-tospeech synthesizers, and more—empowering seamless communication and bridging language barriers through cutting-edge solutions.
+Build less more 10 API Service such as Speech To Text Service, Text Translation Service, etc.
+Design and Create UI/UX interface for 3 Web Services such as Dikte.in.
+Development Web Service of product based on user experience.
+Build Products and Features, such as Dikte.in, Upload feature, Streaming feature, Summary feature, etc.
+Testing, evaluating, & monitoring products performance, especially End-to-End Test.
+PT. Bahasa Kita - Jakarta, Indonesia
+
+Sep 2022 - Feb 2024
+
+Research & Development Staff
+Research about AI Model, especially Open Source Model and Local Model.
+Development 3 AI Inferance, such as Upload STT Inference, Streaming STT Inference, etc.
+Modification Library or Inference of AI, such as Get Partial Result during process
+Improve AI Inference Performances such as Reduce Processing Time, CPU Usage, GPU Usage, and Implementing a New Method or
+New Flow Process
+
+Education Level
+Institut Teknologi Sepuluh Nopember - Surabaya, Indonesia
+
+Aug 2018 - Aug 2022
+
+Bachelor Engineering Physics, 3.62/4.00
+Final Project: The signal processing field with the title "COVID-19 Cough Sound Classification baseed on Deep Learning" and get an
+accuracy score of 88.19%
+Obtain campus research funding with lecturers for research "COVID-19 Cough Sound Classification based on Deep Learning"
+Conducted research with faculty and co-authored the publication "Jointly Predicting Emotion, Age, and Country Using Pre-Trained
+Acoustic Embedding."
+Contributed to the research paper "Evaluation of Automatic Single Cough Segmentation."
+Collaborated with faculty and contributed to the Q2 publication "Cross-dataset COVID-19 Transfer Learning with Data Augmentation."
+Contributed to the research paper "Comparing Hysteresis Comparator and RMS Threshold Methods for Automatic Single Cough
+Segmentation."
+
+Skills, Achievements & Other Experience
+Hard Skills: Experienced in integrating both third-party and local large language models, such as OpenAI, Claude, Gemini, VLLM
+Service, SeaLLM, Llama, Deepseek, and Qwen.
+Hard Skills: Experienced in integrating both third-party and local speech-to-text models, such as Google Speech Streaming and
+Whisper.
+Hard Skills: Experienced in integrating both third-party and local text-to-speech models, such as PlayHT, Coqui, and ElevenLabs.
+Achievements (2021): Bronze Medal in Poster Category PIMNAS 34 by Ministry of Research, Technology and Higher Education
+Indonesia with research title "Respiratory Disease Classification based on Lung Sounds using Convolutional Neural Network"
+Projects (2022): Take part in the ICML Expressive Vocalization (ExVo) Workshops & Competition with the ExVo Multi-Task subchallenge and and get the best 6th position
+Soft Skills: Analytical Thinking, Critical Thinking, Logical Thinking, Teamwork, and Time Management
+Achievements (2021): Gold Medal in Presentation Category PIMNAS 34 by Ministry of Research, Technology and Higher Education
+Indonesia with research title "Respiratory Disease Classification based on Lung Sound using Convolutional Neural Network"
+Projects (2022): Take part in ComParE 2022 with the Vocalisations sub-challenge & the Stuttering sub-challenge.
+Projects (2022): Research for the final project entitled "Covid-19 Cough Sound Classification Based on Deep Learning" and and get an
+accuracy score of 88.19%
+
+
