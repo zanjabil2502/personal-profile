@@ -6,7 +6,7 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "deploy": "npm run build && touch out/.nojekyll && ls -l out/img && gh-pages -d out"
+    "deploy": "npm run build && cp -r public/* out/ && touch out/.nojekyll && gh-pages -d out"
   },
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
