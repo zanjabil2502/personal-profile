@@ -456,7 +456,7 @@ export default function Home() {
             className="relative"
           >
             {/* Avatar */}
-            <motion.div
+            {/* <motion.div
               className="relative mx-auto mb-8 w-48 h-48"
               initial={{ scale: 0, rotate: -180 }}
               animate={{ scale: 1, rotate: 0 }}
@@ -475,7 +475,7 @@ export default function Home() {
               >
                 <div className="w-3 h-3 bg-white rounded-full" />
               </motion.div>
-            </motion.div>
+            </motion.div> */}
 
             {/* Name and Title */}
             <motion.h1
