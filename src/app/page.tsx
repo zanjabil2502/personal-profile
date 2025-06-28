@@ -286,7 +286,7 @@ const profile = {
     {
       company: "Ajari Technologies PTE. LTD",
       location: "Jakarta, Indonesia",
-      period: "Mar 2024 - Dec 2024",
+      period: "Mar 2024 - Present",
       title: "AI Engineer Staff",
       details: [
         "Built 2 Real-Time Transcription & Translation Services",
@@ -303,7 +303,7 @@ const profile = {
       company: "PT. Bahasa Kita",
       location: "Jakarta, Indonesia",
       period: "Dec 2022 - Feb 2024",
-      title: "Production Staff & Full-Stack Developer",
+      title: "Production Staff",
       details: [
         "Built 10+ API Services (Speech To Text, Text Translation)",
         "Designed UI/UX for 3 Web Services including Dikte.in platform",
