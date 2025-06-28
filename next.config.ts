@@ -1,7 +1,17 @@
-import type { NextConfig } from "next";
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  // Enable standalone output untuk Docker optimization
+  output: 'standalone',
+  
+  // Compress images
+  images: {
+    formats: ['image/webp', 'image/avif'],
+  },
+  
+  // Enable experimental features jika diperlukan
+  experimental: {
+    // outputFileTracingRoot: path.join(__dirname, '../../'),
+  },
+}
 
-const nextConfig: NextConfig = {
-  /* config options here */
-};
-
-export default nextConfig;
+module.exports = nextConfig

@@ -6,5 +6,17 @@ services:
       dockerfile: Dockerfile
     restart: always
     ports:
-      - 3151:3000
- 
+      - "3151:3000"
+    environment:
+      - NODE_ENV=production
+    volumes:
+      # Optional: untuk development dengan hot reload
+      # - .:/app
+      # - /app/node_modules
+      # - /app/.next
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
