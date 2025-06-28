@@ -9,11 +9,11 @@ services:
       - "3151:3000"
     environment:
       - NODE_ENV=production
+    # Perbaiki format volumes - harus berupa list dengan dash (-)
     volumes:
-      # Optional: untuk development dengan hot reload
-      # - .:/app
-      # - /app/node_modules
-      # - /app/.next
+      - .:/app
+      - /app/node_modules
+      - /app/.next
     networks:
       - app-network
 
