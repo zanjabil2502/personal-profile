@@ -65,25 +65,4 @@ ENV HOSTNAME "0.0.0.0"
 
 # server.js is created by next build from the standalone output
 # https://nextjs.org/docs/pages/api-reference/next-config-js/output
-CMD ["node", "server.js"]services:
-  next-app:
-    container_name: next-app
-    build:
-      context: .
-      dockerfile: Dockerfile
-    restart: always
-    ports:
-      - "3151:3000"
-    environment:
-      - NODE_ENV=production
-    volumes:
-      # Optional: untuk development dengan hot reload
-      # - .:/app
-      # - /app/node_modules
-      # - /app/.next
-    networks:
-      - app-network
-
-networks:
-  app-network:
-    driver: bridge
+CMD ["node", "server.js"]
